@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app2" />
+            <option value="$PROJECT_DIR$/applicationlayout" />
+            <option value="$PROJECT_DIR$/fragmentlatihan" />
+            <option value="$PROJECT_DIR$/gituser" />
+            <option value="$PROJECT_DIR$/myconstraintview" />
+            <option value="$PROJECT_DIR$/myconstrainview" />
+            <option value="$PROJECT_DIR$/mycontentnavicagion" />
+            <option value="$PROJECT_DIR$/myrecyclerview" />
+            <option value="$PROJECT_DIR$/usergithub" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
